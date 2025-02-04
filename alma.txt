@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 alma
 Bekker Barnabás
+=======
+alma 
+Antal László
+>>>>>>> f3c9f939cb92f6d76d0584a61eb8a6fce9a654f6
