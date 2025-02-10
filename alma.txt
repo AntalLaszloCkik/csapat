@@ -1,8 +1,5 @@
 alma
 Bekker Barnabás
-<<<<<<< HEAD
 git Antal László
-=======
 alma 
 Antal László
->>>>>>> 9d1d9dbfc9d331d3bc16742f0292d6910dab2983
